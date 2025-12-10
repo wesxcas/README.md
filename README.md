@@ -6,7 +6,7 @@ Testing 101
 
 <!-- <img src=""> this is another way you can add in images and allows you to scale them -->
 
-![mishmanners gaming room - gif of my actual gaming room setup](https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif)
+![mishmanners gaming room - gif of my actual gaming room setup](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQzNWg1enY2MnRmazc5dHZzNXlldWk0bWdzbXBiNnhhZ3g0YW1ieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13hxeOYjoTWtK8/giphy.gif)
 
 ✔ South-East Asian pure blood Filipino (From Philippines) Testing Only
 
