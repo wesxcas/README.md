@@ -13,7 +13,7 @@
 ### Catch me streaming at:
 
 <p align="left">
-<a href="https://https://www.twitch.tv/wesxcas" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitch.png" alt="" height="30" /></a>
+<a href="https://www.twitch.tv/wesxcas" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitch.png" alt="" height="30" /></a>
 </p>
 
 <!-- TODO add in the rest of the URLs -->
